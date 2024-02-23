@@ -1,4 +1,4 @@
-###ImageEnhancer-SRCNN
+##ImageEnhancer-SRCNN
 Welcome to the ImageEnhancer-SRCNN repository. This project leverages the power of Super-Resolution Convolutional Neural Networks (SRCNN) to enhance and upscale images. Built with TensorFlow and Flask, it provides an easy-to-use web interface for upscaling images with state-of-the-art deep learning techniques.
 
 ##Features
